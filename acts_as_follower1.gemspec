@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "acts_as_follower/version"
 
 Gem::Specification.new do |s|
-  s.name        = "acts_as_follower"
+  s.name        = "acts_as_follower1"
   s.version     = ActsAsFollower::VERSION
   s.authors     = ["Tom Cocca"]
   s.email       = ["tom dot cocca at gmail dot com"]
